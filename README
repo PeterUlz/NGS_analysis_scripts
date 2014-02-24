@@ -1,0 +1,13 @@
+NGS Analysis scripts
+--------------------
+
+Script collection to analyze NGS using open source software
+
+
+-) SAM2BAM.sh
+
+Uses picard to create, sort and index a BAM File from specified SAM File
+Usage: ./SAM2BAM.sh <input.sam> <output.bam>
+
+-) 
+
